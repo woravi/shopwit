@@ -13,7 +13,7 @@ const sampleData = {
       brand: 'Polo',
       rating: 4.5,
       numReviews: 10,
-      stock: 5,
+      stock: 5,  
       isFeatured: true,
       banner: 'banner-1.jpg',
     },
